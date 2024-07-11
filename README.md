@@ -13,6 +13,28 @@
 | D12 | MISO |
 | D13 | SCK |
 
+| Arduino Nano | GPS neo M7 | MPU 6050 | BME280 |
+|----------|-----------|----------|------------|
+| 5V | VCC | VCC | VCC |
+| GND | GND | GND | GND |
+|A0 | RX | | |
+| A1 | TX | | |
+| A2 | | SDA | |
+| A3 | | SCL | |
+| A4 | | | SCL |
+| A5 | | | SDA |
+
+| Arduino Nano | Channel Connections |
+|--------------|---------------------|
+| D5 | Ch-1 Throttle |
+| D3 | Ch-2 Rudder |
+| D4 | Ch=3 Elevator |
+| D2 | Ch-2 Aileron |
+|  | Ch-5 Auto Pilot |
+| D7 | Ch-6 Trap Door|
+
+
+
 # Long Range Fixed Wing Autonomous Blood Delivery UAV
 
 ## Wireless Communication
