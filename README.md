@@ -6,6 +6,7 @@
 ## Transmitter Circuit Diagram
 <img width="960" alt="newcontroller" src="https://github.com/Nahusha-Karnam/UAV/assets/171113429/7cd8e6f4-9f3e-43ba-bc33-8198c901aacb">
 
+## Flight Control System Table of Connections
 
 | Arduino Nano | NRF24L01 |
 |--------------|----------|
@@ -37,6 +38,28 @@
 |  | Ch-5 Auto Pilot |
 | D7 | Ch-6 Trap Door|
 
+## Controller Table of Connections
+
+| Arduino Nano | NRF24L01 |
+|--------------|----------|
+| 3v3 | VCC |
+| GND | GND |
+| D10 | CSN |
+| D9 | CE |
+| D11 | MOSI |
+| D12 | MISO |
+| D13 | SCK |
+
+| Arduino Nano | Rudder & Throttle | Elevator & Aileron | Auto Pilot Switch | Trap Door Switch |
+|--------------|-------------------|--------------------|--------------------|------------------|
+| 5v | VCC | VCC | VCC | VCC |
+| GND | GND | GND | GND | GND |
+| A0 | Ch1 | | | |
+| A1 | Ch2 | | | |
+| A2 | | Ch3 | | | 
+| A3 | | Ch4 | | |
+| A6 | | | Ch5 | |
+| A7 | | | | CH6 |
 
 
 ## Wireless Communication
