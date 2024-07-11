@@ -61,6 +61,9 @@
 | A6 | | | Ch5 | |
 | A7 | | | | CH6 |
 
+## Airfoil Design
+![WhatsApp Image 2024-07-11 at 6 59 30 PM](https://github.com/Nahusha-Karnam/UAV/assets/171113429/68abb831-0426-4094-a4e2-6ce8a36e0766)
+
 
 ## Wireless Communication
 
