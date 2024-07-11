@@ -7,7 +7,11 @@
 |--------------|----------|
 | 3v3 | VCC |
 | GND | GND |
-|
+| D10 | CSN |
+| D9 | CE |
+| D11 | MOSI |
+| D12 | MISO |
+| D13 | SCK |
 
 # Long Range Fixed Wing Autonomous Blood Delivery UAV
 
