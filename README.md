@@ -33,7 +33,7 @@
 |--------------|---------------------|
 | D5 | Ch-1 Throttle |
 | D3 | Ch-2 Rudder |
-| D4 | Ch=3 Elevator |
+| D4 | Ch-3 Elevator |
 | D2 | Ch-2 Aileron |
 |  | Ch-5 Auto Pilot |
 | D7 | Ch-6 Trap Door|
