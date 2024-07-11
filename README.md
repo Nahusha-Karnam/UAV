@@ -1,7 +1,9 @@
-#Flight Control System Circuit Diagram
+# Long Range Fixed Wing Autonomous Blood Delivery UAV
+
+## Flight Control System Circuit Diagram
 <img width="960" alt="airplane" src="https://github.com/Nahusha-Karnam/UAV/assets/171113429/55928915-8055-4a60-b7ec-269788314793">
 
-#Transmitter Circuit Diagram
+## Transmitter Circuit Diagram
 <img width="960" alt="newcontroller" src="https://github.com/Nahusha-Karnam/UAV/assets/171113429/7cd8e6f4-9f3e-43ba-bc33-8198c901aacb">
 | Arduino Nano | NRF24L01 |
 |--------------|----------|
@@ -34,8 +36,6 @@
 | D7 | Ch-6 Trap Door|
 
 
-
-# Long Range Fixed Wing Autonomous Blood Delivery UAV
 
 ## Wireless Communication
 
