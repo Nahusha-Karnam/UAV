@@ -128,10 +128,6 @@ https://github.com/user-attachments/assets/30eadac0-eaff-4c48-af29-2e90603a495c
 
 Video Quality is low because GitHub only allows files within 10 Mb
 
-## Wireless Communication
-
-https://github.com/Nahusha-Karnam/UAV/assets/171113429/bdf43c5f-93cd-4553-adfd-113b4b87b375
-
 
 ## Barometric Altimeter
 
