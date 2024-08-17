@@ -137,6 +137,15 @@ https://github.com/Nahusha-Karnam/UAV/assets/171113429/bdf43c5f-93cd-4553-adfd-1
 
 https://github.com/Nahusha-Karnam/UAV/assets/171113429/54cc1e7e-d0cd-4dd8-a8cf-ac373413a564
 
+## Ground Level Testing
+
+
+https://github.com/user-attachments/assets/9a210416-090a-4ac7-8cb9-c3ca17a6d6db
+
+Currently we are doing ground level testing to calibrate the sensors for a stable flight
+
+
+
 ## Conclusion
 The “Long Range Fixed Wing Autonomous Blood Delivery UAV” project aims to revolutionize the delivery of critical medical supplies in India by leveraging advanced UAV technology. By addressing the significant challenge of inaccessible healthcare in remote areas, this solution has the potential to save thousands of lives and improve the overall efficiency of medical logistics. Through rigorous testing, strategic partnerships, and a focus on scalability, our project will demonstrate the transformative impact of fixed-wing UAVs in humanitarian efforts. This innovation not only enhances current medical supply chains but also sets a precedent for future advancements in autonomous delivery systems worldwide.
 
